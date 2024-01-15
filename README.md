@@ -16,24 +16,26 @@ This repository showcases a fully functional electronic scale store built using 
 
 ## Screenshots
 
-![Main Page](screenshots/main-page.png)
+![Main Page](main.png)
+![Main Page](main1.png)
+![Main Page](main2.png)
 *Caption: Brief description of the screenshot.*
 
-![Product Page](screenshots/product-page.png)
+![Product Page](product.png)
 *Caption: Brief description of the screenshot.*
 
-![New Product Page](screenshots/new-product-page.png)
+![New Product Page](newproduct.png)
 *Caption: Brief description of the screenshot.*
 
-![About Us Page](screenshots/about-us-page.png)
+![About Us Page](aboutus.png)
 *Caption: Brief description of the screenshot.*
 
-![Contact Us Page](screenshots/contact-us-page.png)
+![Contact Us Page](contactus.png)
 *Caption: Brief description of the screenshot.*
 
 ## Live Demo
 
-Explore the live WordPress Electronic Scale Store [here](insert-link-to-live-website).
+Explore the live WordPress Electronic Scale Store [here]([insert-link-to-live-website](https://highpro.ca/)).
 
 ## How to Use
 
