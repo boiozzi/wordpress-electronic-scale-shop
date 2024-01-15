@@ -34,7 +34,7 @@ Main page
 
 ## Live Demo
 
-Explore the live WordPress Electronic Scale Store [here]([insert-link-to-live-website](https://highpro.ca/)).
+Explore the live WordPress Electronic Scale Store [here](https://highpro.ca/).
 
 ## How to Use
 
