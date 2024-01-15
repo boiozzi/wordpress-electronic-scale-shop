@@ -1,4 +1,3 @@
-# wordpress-electronic-scale-shop
 # WordPress Electronic Scale Store
 
 This repository showcases a fully functional electronic scale store built using WordPress.
