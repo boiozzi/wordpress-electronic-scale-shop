@@ -26,7 +26,7 @@ This repository showcases a fully functional electronic scale store built using 
 ![New Product Page](newproduct.png)
 *Caption: Brief description of the screenshot.*
 
-![About Us Page](aboutus.png)
+![About Us Page](about.png)
 *Caption: Brief description of the screenshot.*
 
 ![Contact Us Page](contactus.png)
