@@ -14,7 +14,7 @@ This repository showcases a fully functional electronic scale store built using 
   - Contact Us
 
 ## Screenshots
-*Main page.*
+#Main page
 ![Main Page](main.png)
 ![Main Page](main1.png)
 ![Main Page](main2.png)
